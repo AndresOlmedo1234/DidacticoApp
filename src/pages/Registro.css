@@ -1,0 +1,26 @@
+.registro_form{
+    padding-top: 1px;
+    margin-top: -10px;
+    position: absolute;
+    left: 275px;
+    width: 55%;
+    
+    
+      }
+    .form-control{
+        border-radius: 50px;
+        width: 100%;
+        height: 50px;
+    }
+
+    .btn-registro{
+        border-radius: 50px;
+        width: 80%;
+        height: 50px;
+        border: none;
+        position: relative;
+        left: 10%;
+        top: 10%;
+
+
+    }

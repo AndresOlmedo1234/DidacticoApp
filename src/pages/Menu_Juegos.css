@@ -1,0 +1,107 @@
+
+.container{
+    position: absolute;
+    left: 30%;
+    top: 8%;
+}
+
+.btn-vocabulario
+{
+    height: 100px;
+    width: 40%;
+    border-radius: 40px;
+    position: relative;
+    border: none;
+    background-color: #FF9901;
+    
+    
+
+}
+
+.btn-oraciones
+{
+    height: 100px;
+    width: 40%;
+    border-radius: 40px;
+    position: relative;
+    border: none;
+    background-color: #760F9F;
+    
+}
+
+.btn-carrera
+{
+    height: 100px;
+    width: 40%;
+    border-radius: 40px;
+    position: relative;
+    border: none;
+    background-color: #BFBFBF;
+}
+
+.btn-trofeos
+{
+    height: 100px;
+    width: 40%;
+    border-radius: 40px;
+    position: relative;
+    border: none;
+    background-color: #F1E402;
+  
+}
+
+.imagen_manzana{
+    position: fixed;
+    top: 60px;
+    width: 5%;
+    height: 10%;
+
+}
+
+.imagen_libro{
+    position: fixed;
+    top: 175px;
+    left: 685px;
+    width: 10%;
+    height: 15%;
+
+}
+.imagen_carro{
+    position: fixed;
+    top: 290px;
+    left: 685px;
+    width: 10%;
+    height: 20%;
+
+}
+.imagen_trofeo{
+    position: fixed;
+    top: 430px;
+    left: 685px;
+    width: 8%;
+    height: 12%;
+
+}
+.imagen_candado1{
+    position: fixed;
+    left: 475px;
+    top: 35%;
+    width: 3%;
+}
+.imagen_candado2{
+    position: fixed;
+    left: 475px;
+    top: 55%;
+    width: 3%;
+}
+.imagen_candado3{
+    position: fixed;
+    left: 475px;
+    top: 75%;
+    width: 3%;
+}
+.imagen_atras{
+    position: fixed;
+    left: 80%;
+    top: 75%;
+}
